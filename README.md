@@ -1,2 +1,2 @@
 # Customer-Segmentation-
-Customer Sementation Visualization -(Python, Pandas, Scikit-learn, Tableau Public)
+Customer Segmentation Visualization -(Python, Pandas, Scikit-learn, Tableau Public)
